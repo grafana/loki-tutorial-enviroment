@@ -1,6 +1,6 @@
-# Sample application for tutorials
+# Sample application forked from Basic Tutorial for Loki
 
-This repository contains the environment for completing the tutorials at [grafana.com/tutorials](https://grafana.com/tutorials).
+This repository contains a series of branches designed for the Zero to hero: loki workshop. Each branch represents a step in the workshop. The `main` branch contains the final version of the sample application.
 
 ## Prequisites
 
